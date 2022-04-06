@@ -1,8 +1,3 @@
-/*
- * Created by ishaanjav
- * github.com/ishaanjav
-*/
-
 package app.ij.mlwithtensorflowlite;
 
 import androidx.annotation.Nullable;
