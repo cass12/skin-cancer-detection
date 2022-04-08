@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Skin Cancer Detection with TFLite</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="classified_as">Classified as:</string>
+    <string name="results">Results:</string>
+    <string name="open_gallery">Open Gallery</string>
 </resources>
