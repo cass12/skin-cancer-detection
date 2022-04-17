@@ -4,8 +4,6 @@
 Deep-learning (CNN) architecture of choice is Inception V3 network.
 It uses TF Lite framework for edge devices deployment & inference.
 
-* *iOS demo version coming soon*
-
 ### Steps for testing the app: 
 
 #### What you'll need: 
